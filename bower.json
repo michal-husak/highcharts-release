@@ -3,7 +3,6 @@
   "version": "v4.1.5",
   "main": [
     "highcharts.js",
-    "highcharts-more.js",
-    "modules/exporting.js"
+    "modules/heatmap.js"
   ]
 }
